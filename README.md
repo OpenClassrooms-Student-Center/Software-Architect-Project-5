@@ -1,2 +1,8 @@
 ![Foosus Logo](./images/foosus.png)
-# Software-Architect-Project-5
+# Repository of Enterprise Architecture
+
+Hello team!
+
+In order to collate our architectural artefacts into one place, we've created this repository captures our principles, standards, agreements and plans for deliving the next generation of Foosus.
+
+
