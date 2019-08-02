@@ -19,6 +19,6 @@ In order to collate our architectural artefacts into one place, we've created th
 ## Documentation Pending Completion and Sign Off
 These documents need to be collaborated on with the new Guardian for Enterprise Architecture)
 * *[Architecture Statement of Work](./artefacts/architecture/statement-of-work)*
-
+* *[Architecture Contract with Design and Development](./artefacts/architecture/architectural-contract-development)
 
 
