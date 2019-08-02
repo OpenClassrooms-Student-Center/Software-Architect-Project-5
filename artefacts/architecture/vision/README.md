@@ -33,7 +33,7 @@ In response to a major decline in user signups, we wish to keep the existing pla
 
 Our business objective is to rapidly and itteratively release an new product which co-exists with can initially co-exist with the existing platform before replacing it.
 
-The goal of this project is to put in place the architectural constraints and direction to keep itterating rapidly towards our business goals.
+The goal of this project is to put in place the architectural constraints and direction to keep iterating rapidly towards our business goals.
 
 The problem is further elaborated in the High Level Functional Requirements brief produced by the CIO and CPO, which stands in for a request for architectural work.
 
