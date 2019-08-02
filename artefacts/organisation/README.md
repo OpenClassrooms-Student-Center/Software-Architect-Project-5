@@ -9,3 +9,5 @@ While Foosus strives to avoid unnecessary hierarchy we have a implemented a mini
 ![Foosus Org Chart](../../images/org-chart.png "Logo Title Text 1")
 
 *Download the PDF [version](./org-chart.pdf)*
+
+See Also:[Foosus Value Stream Map](./value-stream-map)
