@@ -104,7 +104,8 @@ The purpose of this section is to outline the environment and process models tha
 
 ## Information flows for the business processes
 
-*Value Stream*
+See [organisational value stream map](../../../organisation/value-stream-map) for the current flows. 
+*TODO: New flows to be defined by the New Architect.*
 
 # Actors and their Roles and Responsibilities
 
@@ -136,7 +137,7 @@ This section descrives the target state architecure principles and boundaries.
 
 ## High Level Diagram
 
-* TO BE COMPETED BY NEW ARCHITECT *
+*TODO: TO BE COMPETED BY NEW ARCHITECT *
 
 ## Requirements that map to the target architecture
 See Geo-aware Food Sourcing - High Level Business Requirements Brief
