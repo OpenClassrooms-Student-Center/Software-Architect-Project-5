@@ -42,29 +42,29 @@ The problem is further elaborated in the High Level Functional Requirements brie
 ### Rate of User Registrations
 
 *Stake holders:* CEO, Ash Callum and Jo Kumar, CFO
-Foosus's current consortium of investors are measuring our value in terms of ourability to maintain a positive rate of new user sign ups.
+Foosus's current consortium of investors are measuring our value in terms of our ability to maintain a positive rate of new user sign ups.
 
-This metric has fallen rapidly in recent months and needs to be recovered as a priority. Expanding in your locals and providing geo-tagetting are seen as critical factors in reaching a broader range of users. 
+This metric has fallen rapidly in recent months and needs to be recovered as a priority. Expanding into local markets and providing geo-targetting are seen as critical factors in reaching a broader range of users. 
 
-Any architecture should be design to scale with increases in our customer base.
+Any architecture should be designed to scale with increases in our customer base.
 
-### Innovating within the Boundaries an Enterprise Architecture 
+### Innovating within the Boundaries of an Enterprise Architecture 
 *Stake holders:*  CIO, CPO, CFO
 
-Foosus's legacy platform has organicaly devolved into complexity as a result of there. While preserving a sense of ownership in every engineer and partner involved in creating the new platform, there need to be clear boundaries to ensure that every increment is considered in terms of its impact towards providing the required business capabilities and supporting Foosus' future growth.
+Foosus's legacy platform has organically devolved into complexity as a result of rapid change and near-sightedness. While preserving a sense of ownership in every engineer and partner involved in creating the new platform, there need to be clear boundaries to ensure that every increment is considered in terms of its impact towards providing the required business capabilities and supporting Foosus' future growth.
 
-### Supporting Rapid Technical Innovation and Expermentation
+### Supporting Rapid Technical Innovation and Experimentation
 *Stake holders:* CMO, CIO, CPO, CFO
 
 The current market is one where our direct competitors are rapidly gaining advantages through pivoting in response to new learnings. Learning has to be at the heart of our target state architecture, as this has previously been bolted onto solutions in a way which resulted in greater instability and technical debt.
 
-The platform should be design with extensibility and feature customisation in mind.
+The platform should be designed with extensibility and feature customisation in mind.
 
 ### Visibility of Platform
 
 *Stake holders*: CMO, CPO, Operations Lead
 
-There is no clarity of how the current platform behaves technically, nor how our platform is performing from a business perspective. Any insights require analysis of logs and spreadsheets, before any sort of business intelligence can be sought.
+There is no clarity of how the current platform behaves technically, nor how our platform is performing from a business perspective. Any insights currently require analysis of logs and spreadsheets, before business intelligence can be sought.
 
 We require an architecture design to provide real time insights and views of the
 the platform health both technically and commercially.
@@ -98,7 +98,7 @@ The purpose of this section is to outline the environment and process models tha
 
 
 ## Users who interact with the business process
-* Food Suppliers will provide Foosus with an investory of available foods
+* Food Suppliers will provide Foosus with an inventory of available foods
 * Consumable Customers will find foods and order foods
 * Food Suppliers will receive orders
 * Foosus Finance team will receive payment
@@ -125,23 +125,23 @@ This section describes the system users/actors in scope for Foosus' target state
 
 * Inventory Systems
 * Order Systems
-* Search systems
+* Search Systems
 * Invoicing Systems
 
 
 ## Responsibilities
 
-* Invoicing Systems must ensure that Food Suppliers are invoiced for a commission as all payment is made directly on deliery.
+* Invoicing Systems must ensure that Food Suppliers are invoiced for a commission as all payment is made directly on delivery.
 
 # Architure Model
-This section descrives the target state architecure principles and boundaries.
+This section describes the target state architecure principles and boundaries.
 
 ## High Level Diagram
 
-*TODO: TO BE COMPETED BY NEW ARCHITECT *
+*TODO: TO BE COMPLETED BY NEW ARCHITECT *
 
 ## Requirements that map to the target architecture
-See Geo-aware Food Sourcing - High Level Business Requirements Brief
+See [Geo-aware Food Sourcing - High Level Business Requirements Brief](../request-for-architectural-work/)
 
 ## Constraints that impact the target architecture
 See stake-holder constraints above.
@@ -164,13 +164,13 @@ See stake-holder constraints above.
 * Always model as though you don't have the full picture yet.
 * Always protect personally identifiable data
 * Design for either data access or mutability depending on the problem
-* Apply consitency depending on the scenario to best statisfy the business need. (Don't assume that all data has to be immediately or even eventually consistent) 
-* Reflecting the domain model within a considered bounded context.
+* Apply consistency depending on the scenario to best statisfy the business need. (Don't assume that all data has to be immediately or even eventually consistent) 
+* Reflect the domain model within an appropriate bounded context.
 
 #### Application Principles
 * Single responsibility and loose coupling of applications.
 * Design open and extensible interfaces into systems, which you can easily iterate on.
-* Apply a *consumer contract driven* approach where intefaces between systems reflect only the data and operation required for them to integrate.
+* Apply a *consumer contract driven* approach where interfaces between systems reflect only the data and operation required for them to integrate.
 * Avoid cyclical dependencies between systems.
 
 
@@ -181,7 +181,7 @@ See stake-holder constraints above.
 * Technology choices should align with the capility and fit to the business.
 * Support releasing software as soon as possible.
 * Ensure that all architecture components are designed to be easy to catalogue and not lose track of.
-* Prefer repeatability over non-determinism
+* Prefer and predictability and repeatability over non-determinism
 
 # Target State Vision
 
