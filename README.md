@@ -3,7 +3,7 @@
 
 Hello team!
 
-In order to collate our architectural artefacts into one place, we've created this repository captures our principles, standards, agreements and plans for deliving the next generation of Foosus.
+In order to collate our architectural artefacts into one place, we've created this repository which captures our principles, standards, agreements and plans for deliving the next generation of Foosus.
 
 # Starting Points
 
