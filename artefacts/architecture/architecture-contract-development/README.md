@@ -1,5 +1,5 @@
+![Foosus Logo](../../../images/foosus.png)
 #Architecture Design and Development Contract
-
 *Project:* XXXX
 *Client:* YYYY
 

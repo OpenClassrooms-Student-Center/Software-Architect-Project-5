@@ -1,3 +1,4 @@
+![Foosus Logo](../../../images/foosus.png)
 # Foosus Legacy State - Value Stream Map
 
 The diagram below depicts a value stream map from Food Source to Customer:

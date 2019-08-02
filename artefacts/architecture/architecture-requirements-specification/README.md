@@ -1,3 +1,4 @@
+![Foosus Logo](../../../images/foosus.png)
 # Architecture Requirements Specification 
 ****
 *Project:* XXXX

@@ -1,3 +1,4 @@
+![Foosus Logo](../../../images/foosus.png)
 # Architecture Vision
 
 Project Geo-Aware FooSus (*working title*)

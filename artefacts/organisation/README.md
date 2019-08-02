@@ -1,3 +1,4 @@
+![Foosus Logo](../../images/foosus.png)
 # Foosus Overview
 
 ## Current Organisational Structure

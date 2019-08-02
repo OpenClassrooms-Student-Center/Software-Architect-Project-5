@@ -1,3 +1,4 @@
+![Foosus Logo](../../../images/foosus.png)
 # Statement of Architecture Work
 
 *Project XXXX*

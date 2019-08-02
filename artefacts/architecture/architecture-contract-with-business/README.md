@@ -1,3 +1,4 @@
+![Foosus Logo](../../../images/foosus.png)
 # Business Users' Architecture Contract
 
 *Project:* XXXX
