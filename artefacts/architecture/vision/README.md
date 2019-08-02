@@ -105,7 +105,7 @@ The purpose of this section is to outline the environment and process models tha
 
 ## Information flows for the business processes
 
-See [organisational value stream map](../../../organisation/value-stream-map) for the current flows. 
+See [organisational value stream map](../../organisation/value-stream-map) for the current flows. 
 *TODO: New flows to be defined by the New Architect.*
 
 # Actors and their Roles and Responsibilities
@@ -178,7 +178,7 @@ See stake-holder constraints above.
 
 * Make choices which are open and convenient to change. 
 * Build vs buy choices should be reasoned and always considered.
-* Technology choices should align with the capility and fit to the business.
+* Technology choices should align with the capability and fit to the business.
 * Support releasing software as soon as possible.
 * Ensure that all architecture components are designed to be easy to catalogue and not lose track of.
 * Prefer and predictability and repeatability over non-determinism
@@ -186,6 +186,6 @@ See stake-holder constraints above.
 # Target State Vision
 
 * Decomissioned legacy platform
-* Developer Experience friendly platform which aids developers in fulfilling new business requirements in congruence with longer-term business and technical raodmaps.
+* Developer Experience friendly platform which aids developers in fulfilling new business requirements in congruence with longer-term business and technical roadmaps.
 
 
