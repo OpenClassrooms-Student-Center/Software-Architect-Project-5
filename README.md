@@ -15,6 +15,9 @@ In order to collate our architectural artefacts into one place, we've created th
 * *[Combined Request for Work and High Level Business Requirements Document](artefacts/architecture/request-for-architectural-work)*
 * *[Architecture Vision](./artefacts/architecture/vision/)*
 
+## Legacy Architecture
+* *[Level 1 and 2 C4 diagrams](./artefacts/architecture/legacy/c4)*
+
 
 ## Documentation Pending Completion and Sign Off
 These documents need to be collaborated on with the new Guardian for Enterprise Architecture)
