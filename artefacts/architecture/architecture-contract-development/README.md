@@ -93,7 +93,7 @@ _Architecture deliverables that meet the business requirements._
 
 ## Architecture Delivery and Business Metrics
 
-## Defined Phases of Deliverables
+## Defined Phases of Delivery
 
 Architecture deliverables that meet the business requirements._
 # Prioritized Joint Work Plan
