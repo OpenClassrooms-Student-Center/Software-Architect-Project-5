@@ -147,8 +147,8 @@ _Note: The above table provides a simple Risk Assessment for small projects. Mor
 The following table summarizes assumptions for this Statement of Architecture Work.
 
 | ID | Assumption | Impact | Owner |
-| -- | ---- | -------- | ---------- | ---------- | ----- |
-| 1 | _Describe assumption_| _Possible impact on the architecture and business goals_| _Person responsible for managing this risk_ |
+| -- | ---------- | ------ | ----- |
+| 1 | _Describe assumption_ | _Possible impact on the architecture and business goals_ | _Person responsible for managing this risk_ |
 
 # Acceptance Criteria and Procedures
 ## Target State Architecture Metrics and KPIs
