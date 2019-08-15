@@ -195,7 +195,6 @@ _Agree on a high level roadmap with any notable milestones_
 
 | Approver | Area of Responsibility | Date |
 | -------  | ---------------------- | ---- |
-| _Name_   | _Business Area_ | _Date_ |
+| _Name of Approver_ | _Business Area_ | _Date_ |
 
-_Sign Off_
 
