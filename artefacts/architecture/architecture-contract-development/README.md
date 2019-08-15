@@ -9,21 +9,24 @@
 
 # Table of Contents
 
-1. Purpose of this document
-1. Introduction and background
-1. The nature of the agreement
-1. Scope of the architecture
-1. Architecture and strategic principles and requirements
-1. Conformance requirements
-1. Architecture development and management process and roles
-1. Target State Architecture measures
+1. Purpose of this Document
+1. Introduction and Background
+1. The Nature of the Agreement
+1. Objectives and Scope
+1. Architecture Description, Strategic Principles and Requirements
+1. Architectural Deliverables
+1. Prioritized Joint Work Plan 
+1. Communications Plan
+1. Risks and Mitigations
+1. Assumptions
+1. Acceptance Criteria and Procedures
+1. Change of Scope Procedures
+1. Timeline
 1. Defined phases of deliverables
-1. Prioritized joint workplan
-1. Time window(s)
-1. Architecture delivery and business metrics
+1. Parties Approving This Plan
 
 
-# Purpose of this document
+# Purpose of this Document
 _Architecture Contracts are the joint agreements between development partners and sponsors on the deliverables, quality, and fitness-for-purpose of an architecture. Successful implementation of these agreements will be delivered through effective architecture governance (see TOGAF Part VII, Architecture Governance). By implementing a governed approach to the management of contracts, the following will be ensured:_
 
 * A system of continuous monitoring to check integrity, changes, decision-making, and audit of all architecture-related activities within the organization
@@ -39,20 +42,10 @@ _Increasingly, the development of one or more architecture domains (business, da
 _Whatever the specifics of the contracting-out arrangements, the arrangements themselves will normally be governed by an Architecture Contract that defines the deliverables, quality, and fitness-for-purpose of the developed architecture, and the processes by which the partners in the architecture development will work together._
 
 
-# Introduction and background
+# Introduction and Background
 ..
 
-# The nature of the agreement
-..
-# Scope of the architecture
-..
-
-# Architecture description, strategic principles and requirements
-## Description
-..
-## Strategic Principles
-..
-## Reference to Architectural Requirements
+# The Nature of the Agreement
 ..
 
 # Objectives and Scope
@@ -81,11 +74,14 @@ _The following table shows the stakeholders who will use this document, their co
 _Agree on what aspects of the architecture will be of interest to this stakeholder._
 _List any views to be created to address this stakeholder’s concerns._
 
-# Change of Scope Procedures
-_Describe a procedure for handling changes in scope_
-1. ..
-1. ..
-1. ..
+
+# Architecture Description, Strategic Principles and Requirements
+## Description
+..
+## Strategic Principles
+..
+## Reference to Architectural Requirements
+..
 
 # Architectural Deliverables
 _Architecture deliverables that meet the business requirements._
@@ -175,7 +171,11 @@ _Refer back to the *Request for Architecture Work* and *Statement of Architectur
 ## Acceptance Procedure
 _Agree on the *process* to be used for acceptance/sign-off._
 
-
+# Change of Scope Procedures
+_Describe a procedure for handling changes in scope_
+1. ..
+1. ..
+1. ..
 
 ## Conformance requirements
 _Agree on a framework for assessing a single or multiple levels of Conformance to this agreement_
@@ -190,15 +190,12 @@ _Agree on a high level roadmap with any notable milestones_
 
 # Defined phases of deliverables
 ..
-# Prioritized joint workplan between teams
-..
 
-# Approvals
+# Parties Approving This Plan
 
 | Approver | Area of Responsibility | Date |
 | -------  | ---------------------- | ---- |
 | _Name_   | _Business Area_ | _Date_ |
-# Details of Parties Approving This Plan
 
 _Sign Off_
 
