@@ -18,13 +18,14 @@
 1. Parties Approving This Plan
 
 # Purpose of this Document
-_Architecture Contracts are the joint agreements between development partners and sponsors on the deliverables, quality, and fitness-for-purpose of an architecture. Successful implementation of these agreements will be delivered through effective architecture governance (see TOGAF Part VII, Architecture Governance). By implementing a governed approach to the management of contracts, the following will be ensured:
-* A system of continuous monitoring to check integrity, changes, decision-making, and audit of all architecture-related activities within the organization
-* Adherence to the principles, standards, and requirements of the existing or developing architectures
-* Identification of risks in all aspects of the development and implementation of the architecture(s) covering the internal development against accepted standards, policies, technologies, and products as well as the operational aspects of the architectures such that the organization can continue its business within a resilient environment
-* A set of processes and practices that ensure accountability, responsibility, and discipline with regard to the development and usage of all architectural artifacts
-* A formal understanding of the governance organization responsible for the contract, their level of authority, and scope of the architecture under the governance of this body
-This is a signed statement of intent to conform with the enterprise architecture, issued by enterprise business users. When the enterprise architecture has been implemented (at the end of Phase F), an Architecture Contract will normally be drawn up between the architecting function (or the IT governance function, subsuming the architecting function) and the business users who will subsequently be building and deploying application systems in the architected environment._
+_Architecture Contracts are the joint agreements between development partners and sponsors on the deliverables, quality, and fitness-for-purpose of an architecture. Successful implementation of these agreements will be delivered through effective architecture governance (see TOGAF Part VII, Architecture Governance). By implementing a governed approach to the management of contracts, the following will be ensured:_
+* _A system of continuous monitoring to check integrity, changes, decision-making, and audit of all architecture-related activities within the organization_
+* _Adherence to the principles, standards, and requirements of the existing or developing architectures_
+* _Identification of risks in all aspects of the development and implementation of the architecture(s) covering the internal development against accepted standards, policies, technologies, and products as well as the operational aspects of the architectures such that the organization can continue its business within a resilient environment_
+* _A set of processes and practices that ensure accountability, responsibility, and discipline with regard to the development and usage of all architectural artifacts_
+* _A formal understanding of the governance organization responsible for the contract, their level of authority, and scope of the architecture under the governance of this body_
+
+_This is a signed statement of intent to conform with the enterprise architecture, issued by enterprise business users. When the enterprise architecture has been implemented (at the end of Phase F), an Architecture Contract will normally be drawn up between the architecting function (or the IT governance function, subsuming the architecting function) and the business users who will subsequently be building and deploying application systems in the architected environment._
 
 
 
