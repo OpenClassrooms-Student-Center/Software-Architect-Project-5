@@ -32,11 +32,11 @@ _Architecture Contracts are the joint agreements between development partners an
     * _A set of processes and practices that ensure accountability, responsibility, and discipline with regard to the development and usage of all architectural artifacts_
     * _A formal understanding of the governance organization responsible for the contract, their level of authority, and scope of the architecture under the governance of this body_
 
-_This is a signed statement of intent on designing and developing the enterprise architecture, or significant parts of it, from partner organizations, including systems integrators, applications providers, and service providers.
+_This is a signed statement of intent on designing and developing the enterprise architecture, or significant parts of it, from partner organizations, including systems integrators, applications providers, and service providers._
 
-Increasingly, the development of one or more architecture domains (business, data, application, technology) may be contracted out, with the enterprise's architecture function providing oversight of the overall enterprise architecture, and co-ordination and control of the overall effort. In some cases even this oversight role may be contracted out, although most enterprises prefer to retain that core responsibility in-house.
+_Increasingly, the development of one or more architecture domains (business, data, application, technology) may be contracted out, with the enterprise's architecture function providing oversight of the overall enterprise architecture, and co-ordination and control of the overall effort. In some cases even this oversight role may be contracted out, although most enterprises prefer to retain that core responsibility in-house._
 
-Whatever the specifics of the contracting-out arrangements, the arrangements themselves will normally be governed by an Architecture Contract that defines the deliverables, quality, and fitness-for-purpose of the developed architecture, and the processes by which the partners in the architecture development will work together._
+_Whatever the specifics of the contracting-out arrangements, the arrangements themselves will normally be governed by an Architecture Contract that defines the deliverables, quality, and fitness-for-purpose of the developed architecture, and the processes by which the partners in the architecture development will work together._
 
 
 # Introduction and background
