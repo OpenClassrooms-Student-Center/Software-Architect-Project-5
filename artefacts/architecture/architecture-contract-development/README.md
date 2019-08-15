@@ -110,9 +110,9 @@ _Description of work product 1, etc._
 #### _Work Product 2 Name_
 _Description of work product 2, etc._
 
-## Work Item n
-### Work Item 2: Activities
-### Work Item 2: Deliverables
+## Work Item _n_
+### Work Item _n_: Activities
+### Work Item _n_: Deliverables
 _The following work products will be created as a result of this architecture work:_
 #### _Work Product m Name_
 _Description of work product m, etc._
