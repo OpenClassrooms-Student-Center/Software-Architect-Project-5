@@ -3,7 +3,7 @@
 
 Hello team!
 
-In order to collate our architectural artefacts into one place, we've created this repository which captures our principles, standards, agreements and plans for deliving the next generation of Foosus.
+In order to collate our architectural artefacts into one place, we've created this repository which captures our principles, standards, agreements and plans for delivering the next generation of Foosus.
 
 # Content
 ## Organisational Starting Points
@@ -20,7 +20,7 @@ In order to collate our architectural artefacts into one place, we've created th
 
 
 ## Documentation Pending Completion and Sign Off
-These documents need to be collaborated on with the new Guardian for Enterprise Architecture)
+These documents need to be collaborated on with the new Guardian for Enterprise Architecture:
 * *[Architecture Statement of Work](./artefacts/architecture/statement-of-work)*
 * *[Architecture Requirements Specificaiton](./artefacts/architecture/architecture-requirements-specification)*
 * *[Architecture Contract with Design and Development](./artefacts/architecture/architecture-contract-development)*
