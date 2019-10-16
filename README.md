@@ -12,7 +12,7 @@ In order to collate our architectural artefacts into one place, we've created th
 * *[Foosus Value Stream Map](./artefacts/organisation/value-stream-map)*
 
 ## Foosus Geo-Aware Rebuild Documentation
-* *[High Level Business Requirements Document](artefacts/architecture/Geo-Aware-Food-Sourcing-High-Level-Business-Requirements-Brief.pdf)*
+* *[High Level Business Requirements Document](artefacts/architecture/request-for-architectural-work/Geo-Aware-Food-Sourcing-High-Level-Business-Requirements-Brief.pdf)*
 * *[Architecture Vision](./artefacts/architecture/vision/)*
 
 
