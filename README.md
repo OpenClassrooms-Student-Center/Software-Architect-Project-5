@@ -8,7 +8,7 @@ In order to collate our architectural artefacts into one place, we've created th
 # Content
 ## Organisational Starting Points
 
-* *[Foosus Project Authorization](./artefacts/Project-Authorization.docx)*
+* *[Foosus Project Authorization](./artefacts/Project-Authorization.pdf)*
 * *[Foosus Value Stream Map](./artefacts/organisation/value-stream-map)*
 
 ## Foosus Geo-Aware Rebuild Documentation
