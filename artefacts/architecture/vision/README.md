@@ -25,11 +25,9 @@ This document is intended to provide a _summary_ version of the architecture to 
 
 # Problem Description
 
-Foosus’ legacy platform has reached a critical point, where it is no longer fit for purpose. Development teams are fully invested in fire-fighting and keeping it running, which has slowed down our ability to deliver new features and remain competitive within a new and unpredictable market.
+Foosus’ legacy platform has reached a critical point, where it is no longer supports planned business growth. Development teams are fully invested in fire-fighting and keeping it running, which has slowed down our ability to deliver new features and remain competitive within a new and unpredictable market.
 
-Market analysis indicates that our fit in the market, has been offset by the instability of the platform and a negative brand reputation caused by public visible outages. 
-
-In response to a major decline in user signups, we wish to keep the existing platform in maintance mode and restructure the teams to deliver an architected platform allowing the platform to grow in line with our business vision of supporting *local* markets. Sign-ups represent a key metric to our investors and can only be recovered through the aglity to innovate rapidly and experiment with variants of existing product offerings.
+We wish to keep the existing platform in maintance mode and restructure the teams to deliver an architected platform allowing the platform to grow in line with our business vision of supporting *local* markets. Sign-ups represent a key metric to our investors and can only be recovered through the aglity to innovate rapidly and experiment with variants of existing product offerings.
 
 Our business objective is to rapidly and itteratively release an new product which co-exists with can initially co-exist with the existing platform before replacing it.
 
@@ -44,14 +42,14 @@ The problem is further elaborated in the High Level Functional Requirements brie
 *Stake holders:* CEO, Ash Callum and Jo Kumar, CFO
 Foosus's current consortium of investors are measuring our value in terms of our ability to maintain a positive rate of new user sign ups.
 
-This metric has fallen rapidly in recent months and needs to be recovered as a priority. Expanding into local markets and providing geo-targetting are seen as critical factors in reaching a broader range of users. 
+Expanding into local markets and providing geo-targetting are seen as critical factors in reaching a broader range of users. 
 
-Any architecture should be designed to scale with increases in our customer base.
+Any architecture should be designed to scale with planned increases in our customer base.
 
 ### Innovating within the Boundaries of an Enterprise Architecture 
 *Stake holders:*  CIO, CPO, CFO
 
-Foosus's legacy platform has organically devolved into complexity as a result of rapid change and near-sightedness. While preserving a sense of ownership in every engineer and partner involved in creating the new platform, there need to be clear boundaries to ensure that every increment is considered in terms of its impact towards providing the required business capabilities and supporting Foosus' future growth.
+Foosus's legacy platform has support our operations but needs to be updated to support business growth plans. While preserving a sense of ownership in every engineer and partner involved in creating the new platform, there need to be clear boundaries to ensure that every increment is considered in terms of its impact towards providing the required business capabilities and supporting Foosus' future growth.
 
 ### Supporting Rapid Technical Innovation and Experimentation
 *Stake holders:* CMO, CIO, CPO, CFO
@@ -81,8 +79,6 @@ The Foosus brand needs to be be bolstered by reducing user visible outages. This
 
 The purpose of this section is to describe the detailed objectives that need to be fulfilled by Foosus' target state architecture.
 
-The previous section covered the underlying business problem, whereas this section details the objectives, for the architecture solution, that will resolve the business problem.
-
 We want to drive Foosus' marketing campaigns in a number of major cities, with the confidence that our platform will remain usable, responsive and deliver a first class customer experience. In order to achieve this we need to architect a solution and governance process which helps us deliver the business' current set of goals and overall vision.
 
 # Environment and Process Models
@@ -99,7 +95,7 @@ The purpose of this section is to outline the environment and process models tha
 
 ## Users who interact with the business process
 * Food Suppliers will provide Foosus with an inventory of available foods
-* Consumable Customers will find foods and order foods
+* Consumers will find foods and order foods
 * Food Suppliers will receive orders
 * Foosus Finance team will receive payment
 
@@ -115,7 +111,7 @@ This section describes the system users/actors in scope for Foosus' target state
 
 ## Human Actors and Roles
 
-* Consumable Customer - buyer
+* Consumer - buyer
 * Food Supplier - seller
 * Customer Fulfillment Team Representative - customer facing
 * Developer - implementer
