@@ -11,6 +11,9 @@ In order to collate our architectural artefacts into one place, we've created th
 * *[Foosus Project Authorization](./artefacts/organisation/Project-Authorization.pdf)*
 * *[Foosus Value Stream Map](./artefacts/organisation/value-stream-map)*
 
+## Legacy Architecture
+* *[Diagrams](artefacts/architecture/legacy/c4)*
+
 ## Foosus Geo-Aware Rebuild Documentation
 * *[High Level Business Requirements Document](artefacts/architecture/request-for-architectural-work/Geo-Aware-Food-Sourcing-High-Level-Business-Requirements-Brief.pdf)*
 * *[Architecture Vision](./artefacts/architecture/vision/)*
